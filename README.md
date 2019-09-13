@@ -6,10 +6,10 @@ The log in and log out uses a jwt token to manage different levels of access to 
 
 Technologies: JavaScript, Angular, Node, Express, Passport, Sequelize, and MySQL.
 
-To start the application, in the terminal, change into the client directory "cd client" then run npm install
+To start the application, in the terminal, change into the client directory "cd client" then run "npm install"
 
-next run ng serve.
+next run "ng serve."
 
-Then open a new terminal and run npm install
+Then open a new terminal and run "npm install"
 
-next run nodemon
+next run "nodemon"
